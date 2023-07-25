@@ -1,6 +1,6 @@
 # Image to Text - Flutter App
 
-<img src="screenshots/main.png" alt="App Screenshot">
+<img src="Screenshots/main.png" alt="App Screenshot">
 
 
 ## Overview
@@ -44,8 +44,8 @@ To run this app locally on your machine, follow these steps:
 ## Screenshots
 <!-- Add some beautiful app screenshots here to showcase the app's functionality -->
 <p align="center">
-  <img src="screenshots/1.png" alt="Screenshot 1" width="185">
-  <img src="screenshots/2.png" alt="Screenshot 2" width="185">
+  <img src="Screenshots/1.png" alt="Screenshot 1" width="185">
+  <img src="Screenshots/2.png" alt="Screenshot 2" width="185">
 </p>
 
 ## Permissions
