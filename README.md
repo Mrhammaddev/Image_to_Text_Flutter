@@ -22,6 +22,8 @@ This app relies on the following Flutter packages:
 - [permission_handler](https://pub.dev/packages/permission_handler): A Flutter plugin for requesting runtime permissions on both Android and iOS platforms.
 - [camera](https://pub.dev/packages/camera): A Flutter plugin to access the device camera and take pictures.
 
+Copywrites: - [Malik Hammad](https://github.com/mrhammaddev)
+
 ## Getting Started
 
 To run this app locally on your machine, follow these steps:
