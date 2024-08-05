@@ -30,7 +30,7 @@ To run this app locally on your machine, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mrhammaddev/image_to_text_flutter_app.git
+   git clone https://github.com/Mrhammaddev/Image_to_Text_Flutter.git
 2. Change into the app directory:
    ```bash
    cd image_to_text_flutter_app
